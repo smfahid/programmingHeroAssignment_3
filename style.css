@@ -1,0 +1,9 @@
+.carousel-caption {
+    top: 50%;
+    bottom: 20%;
+}
+
+.slide_img {
+    filter: brightness(50%);
+    height: 600px;
+}
